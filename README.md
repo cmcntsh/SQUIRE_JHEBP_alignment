@@ -1,7 +1,7 @@
 # SQUIRE 2.0 & Johns Hopkins Evidence-Based Practice (5th Ed.) Alignment
 
 | SQUIRE 2.0 Section            | JHEBP 5th Chapter                                         |
-|"-------------------------------:|:-----------------------------------------------------------:|
+|:-------------------------------:|:-----------------------------------------------------------:|
 | 3. Problem Description        | 3, Appendix B                                             |
 | 4. Available Knowledge        | 4, 6, 7, 8, 9, Appendix B, C, D, E1, E2, E3, F, G1, G2, H |
 | 5. Rationale                  | 5, 10, 11                                                 |
