@@ -1,5 +1,9 @@
 # SQUIRE 2.0 & Johns Hopkins Evidence-Based Practice (5th Ed.) Alignment
 
+* Link to SQUIRE statement https://www.squire-statement.org/index.cfm?fuseaction=Page.ViewPage&pageId=525
+* Link to JHEBP text Link to text online: https://research-ebsco-com.ezproxy.lib.utah.edu/c/qiotxo/ebook-viewer/pdf/d4ehziyb6z/page/pp_C1?auth-callid=e4441f0c-adae-411b-8bd6-45951fb08671
+
+
 | SQUIRE 2.0 Section            | JHEBP 5th Chapter                                         |
 |:-------------------------------:|:-----------------------------------------------------------:|
 | 3. Problem Description        | 3, Appendix B                                             |
